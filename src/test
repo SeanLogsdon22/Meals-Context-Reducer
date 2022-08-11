@@ -1,0 +1,13 @@
+make a shopping cart which
+is basically a todo app
+
+different dummy products 
+with the ability to add them to 
+a cart
+
+show the cart being updated and 
+then be able to open the cart, 
+show the items in the cart, and 
+the total amount 
+
+usereducer and usecontext to manage state

@@ -1,0 +1,10 @@
+.cart {
+  text-align: end;
+}
+.list {
+  list-style-type: none;
+}
+.cart-items {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
